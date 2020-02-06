@@ -1,0 +1,17 @@
+.btn {
+  text-decoration: none;
+  color: white;
+  padding: 15px 24px;
+  border-radius: 30px;
+  border: 2px solid transparent;
+}
+
+.green {
+  background-color: #1edd88;
+}
+
+.btn:hover {
+  border: 2px solid #1edd88;
+  background-color: transparent;
+  color: #1edd88;
+}

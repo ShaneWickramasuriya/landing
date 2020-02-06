@@ -1,0 +1,42 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Proza+Libre:400,700|Poppins:700&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/*Components*/
+@import url('components/card.css');
+@import url('components/banner.css');
+@import url('components/button.css');
+@import url('components/footer.css');
+
+/* Utilities */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: Proza Libre;
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+  padding: 48px 0;
+}
+
+.text-center {
+  text-align: center;
+}

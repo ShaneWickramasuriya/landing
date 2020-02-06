@@ -1,0 +1,26 @@
+.footer {
+  background-color: #2c2b2b;
+  height: 250px;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.footer .container {
+  padding: 0;
+}
+
+.footer a {
+  color: #1EDD88;
+  font-size: 32px;
+}
+
+.footer ul li {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.footer p {
+  margin-top: 16px;
+  color: #6b6c6c;
+}

@@ -1,0 +1,25 @@
+.banner {
+  background-image: url("../../images/background.png");
+  color: white;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+/*.banner .container {
+  padding: 50vh;
+}*/
+
+.banner h1 {
+  font-size: 96px;
+  line-height: 1.3;
+  margin-bottom: 60px;
+  text-shadow: 0 0 16px #121212;
+}
+
+.banner p {
+  font-size: 24px;
+  line-height: 1.2;
+  margin-bottom: 60px;
+  text-shadow: 0 0 16px #121212;
+}
